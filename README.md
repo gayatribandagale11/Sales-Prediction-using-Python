@@ -114,32 +114,6 @@ Gayatri Bandagale
 
 ---
 
-🌟 Acknowledgment
-
-This project was completed as part of a Data Science Internship.
-
-🔖 Tags
-
-#MachineLearning #Python #DataScience #SalesPrediction #AI
-👩‍💻 Author
-
-Gayatri Bandagale
-
-🌟 Acknowledgment
-
-This project was completed as part of a Data Science Internship.
-
-🔖 Tags
-
-#MachineLearning #Python #DataScience #SalesPrediction #AI
-
----
-# 👩‍💻 Author
-
-# Gayatri Bandagale
-
----
-
 ## 🌟 Acknowledgment
 
 This project was completed as part of a Data Science Internship.

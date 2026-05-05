@@ -122,4 +122,4 @@ This project was completed as part of a Data Science Internship.
 
 ## 🔖 Tags
 
-#MachineLearning #Python #DataScience #SalesPrediction #AI
+#MachineLearning #Python #DataScience #SalesPrediction #AI #CodeAlpha
